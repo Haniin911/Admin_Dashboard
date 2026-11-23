@@ -38,7 +38,26 @@ Setup instructions will be added after checking this app's `package.json`, suppo
 
 ## Screenshots
 
-Screenshots will be added after replacing personal records with synthetic demo data or redacting identifying fields. Do not publish real patient details, provider documents, email addresses, phone numbers, or login credentials.
+### Overview
+![Overview](Docs/Overview.jpeg)
+
+### Analytics
+![Analytics](Docs/Analytics.jpeg)
+
+### Users
+![Users](Docs/Users.jpeg)
+
+### Doctors
+![Doctors](Docs/Doctors.jpeg)
+
+### Orders
+![Orders](Docs/Orders.jpeg)
+
+### Finance
+![Finance](Docs/Finance.jpeg)
+
+### Settings
+![Settings](Docs/Settings.jpeg)
 
 ## Scope
 
